@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BarrosLucasJavier/productPreviewCardComponent)
-- Live Site URL: [Add live site URL here](https://barroslucasjavier.github.io/productPreviewCardComponent/)
+- Solution URL: [GitHub](https://github.com/BarrosLucasJavier/productPreviewCardComponent)
+- Live Site URL: [GitHub Page](https://barroslucasjavier.github.io/productPreviewCardComponent/)
 
 
 ### Built with
